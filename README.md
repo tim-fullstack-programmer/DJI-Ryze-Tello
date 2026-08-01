@@ -131,6 +131,12 @@ tello-ai-controller/
 
 ---
 
+## Author
+
+Developed by **[Tim](https://github.com/tim-fullstack-programmer)**
+
+---
+
 ## License
 
 This project is open-source. Feel free to modify, extend, and integrate with your own drone setups.
