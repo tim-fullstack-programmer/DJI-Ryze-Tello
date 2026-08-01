@@ -38,8 +38,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/username/tello-ai-controller.git
-cd tello-ai-controller
+git clone https://github.com/username/DJI-Ryze-Tello.git
+cd DJI-Ryze-Tello
 
 # 2. Install dependencies
 pip install djitellopy pyqt5 opencv-python numpy mediapipe vosk pyaudio keyboard
